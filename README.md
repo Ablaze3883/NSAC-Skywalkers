@@ -1,2 +1,2 @@
 # Skywalkers
-N.A.S.A Space App Challenge
+NASA Space App Challenge
